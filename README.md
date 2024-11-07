@@ -19,7 +19,7 @@
 
 
 ## 🔗 Links
-[https://github.com/BKAPADIA04/RidesAndRates](https://github.com/BKAPADIA04/Farely)
+[https://github.com/BKAPADIA04/Farely](https://github.com/BKAPADIA04/Farely)
 
 ## Authors
 
